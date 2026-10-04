@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "id": "01M43VQJBNH48B2XMFFBN02AKG",
+  "epic": "CU-z8r3fdnawj",
+  "author": "dh.lee",
+  "at": "2026-10-05T00:25:09.749+08:00",
+  "sig": "ed25519:31/qcdyGeEzk3L/AUY6//mALRYYRwoGe3tnnGFP1Hm6bc1WVVBlMoZG0xMMSVjqseho19YHM7fhd0ctrWynHAw==",
+  "type": "epic.started",
+  "data": {
+    "tracker_ref": "z8r3fdnawj",
+    "owner": "dh.lee",
+    "base_sha": "b95ecab12b4f1e2358c5e9d5161cc5bb3cec6d91",
+    "config_version": "sample-v1"
+  }
+}
