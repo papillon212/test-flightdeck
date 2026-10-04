@@ -1,3 +1,4 @@
+// 리프레시 토큰 회전 (설계 design.md)
 const crypto = require("crypto");
 
 function rotate(store, token) {

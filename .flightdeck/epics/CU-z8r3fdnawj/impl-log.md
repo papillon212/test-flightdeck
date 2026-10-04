@@ -34,3 +34,8 @@ verification: "node check.js # ok 3 passed (재사용 탐지 테스트 포함)"
 **검토한 대안** 없음
 
 **리뷰 포인트** src/token.js:3-5 - 토큰의 used 상태를 확인하고 재사용 시도 시 올바른 오류를 던지는지 확인
+
+## 직접 수정 메모
+
+- `README.md:4-5` (@dh.lee): README에 위치 안내 한 줄
+- `src/token.js:1-17` (@dh.lee): 모듈 머리 주석을 직접 달았다
