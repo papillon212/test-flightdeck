@@ -12,6 +12,14 @@
 ## 불명확한 점
 <!-- p:8472 -->
 - 액세스 토큰 TTL은 몇 분인가?
+
+<!-- flightdeck:thread id=t-S1YZEHX4 status=resolved anchor=p:8472 -->
+> **❓ @dh.lee → @park** · 2026-10-04 16:35 · ✅ 해결됨
+> @park 액세스 토큰 TTL은 요구사항상 몇 분인가요?
+>
+> **💬 @park** · 2026-10-04 16:35
+> 30분, 슬라이딩 갱신입니다.
+<!-- /flightdeck:thread -->
 <!-- p:9a3d -->
 - 재사용 탐지 시 모든 세션을 끊는가?
 
