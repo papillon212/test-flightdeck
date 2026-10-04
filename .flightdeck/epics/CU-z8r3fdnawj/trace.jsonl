@@ -1,0 +1,4 @@
+{"ts":"2026-10-05T00:26:50.856+08:00","tool":"Bash","step":1,"cmd":"ls -la /private/tmp/fd-m2/dh.lee/test-flightdeck.flightdeck/CU-z8r3fdnawj/"}
+{"ts":"2026-10-05T00:26:56.586+08:00","tool":"Bash","step":1,"cmd":"mkdir -p /private/tmp/fd-m2/dh.lee/test-flightdeck.flightdeck/CU-z8r3fdnawj/src"}
+{"ts":"2026-10-05T00:26:58.691+08:00","tool":"Write","step":1,"file":"src/token.js","range":[1,17]}
+{"ts":"2026-10-05T00:27:00.318+08:00","tool":"Bash","step":1,"cmd":"node check.js"}
