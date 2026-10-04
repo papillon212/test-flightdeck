@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "01M435RCSQZ6CJHM90YXZBX9BG",
+  "epic": "CU-z8r3fdn7j7",
+  "author": "choi",
+  "at": "2026-10-04T18:01:08.151+08:00",
+  "sig": "ed25519:IS5RaL53xJeYA9IqSqIgPUWWcg+fcw3jX1QNxv46+AFH4fZPyEk52P9XMX2n6+qzKoShTHlFApa2LPrvrm6lDg==",
+  "type": "review.approved",
+  "data": {
+    "phase": "DESIGN",
+    "tier": "architect",
+    "artifact_hash": "sha256:debe24ea77c8c7bd5d7bd5dc45f33463bd8c6b73beeb4fd58c83ec642aa176ae"
+  }
+}
