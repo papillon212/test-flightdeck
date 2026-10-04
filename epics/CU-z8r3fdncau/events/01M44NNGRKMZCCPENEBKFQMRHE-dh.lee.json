@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "01M44NNGRKMZCCPENEBKFQMRHE",
+  "epic": "CU-z8r3fdncau",
+  "author": "dh.lee",
+  "at": "2026-10-05T07:58:25.555+08:00",
+  "sig": "ed25519:iQz8gX+fwT0achneZ15VoiCyzcqbv2b7/VDq35TykLMyaBP+QxYL8lx/Rh3mH3b5ZsELDZbOGhu75oPS60UrAQ==",
+  "type": "review.requested",
+  "data": {
+    "phase": "DESIGN",
+    "artifact_hash": "sha256:32cb5c86272f1b46bd3904a769c2091a6d49c76c6af61e6518ae28da69916c35",
+    "commit": "320b9cfb355de4d3923c3320a5a1a74b0a57255d"
+  }
+}
