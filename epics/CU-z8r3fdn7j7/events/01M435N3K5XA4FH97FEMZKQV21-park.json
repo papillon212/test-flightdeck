@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "id": "01M435N3K5XA4FH97FEMZKQV21",
+  "epic": "CU-z8r3fdn7j7",
+  "author": "park",
+  "at": "2026-10-04T17:59:20.441+08:00",
+  "type": "thread.created",
+  "data": {
+    "thread": "t-EMZKQV21",
+    "phase": "DESIGN",
+    "file": "design.md",
+    "anchor": {
+      "type": "paragraph",
+      "pid": "p:9380"
+    },
+    "kind": "change_request",
+    "to": [
+      "dh.lee"
+    ],
+    "body": "재사용 탐지 시 어떤 조치를 하시나요? 예를 들어 세션을 끊는지, 로그를 기록하는지 등의 처리 방식과 그 근거를 명시해 주시기 바랍니다.",
+    "commit": "b67ba69ed4b511a01920bd5092e76b47ae59f98c",
+    "source": "agent"
+  }
+}
