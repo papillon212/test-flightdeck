@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "01M435Q7R95HNYF268GJZGFRV9",
+  "epic": "CU-z8r3fdn7j7",
+  "author": "park",
+  "at": "2026-10-04T18:00:30.217+08:00",
+  "sig": "ed25519:xJFlGVBIhKZ7tP3RsmI7Lpzj0oQgRqsOYcsjE6/uO0KrSOTGZf2MThXHX2xw5GEOrJ3izVznyOp4/ONEZWGgDg==",
+  "type": "review.approved",
+  "data": {
+    "phase": "DESIGN",
+    "tier": "lead",
+    "artifact_hash": "sha256:debe24ea77c8c7bd5d7bd5dc45f33463bd8c6b73beeb4fd58c83ec642aa176ae"
+  }
+}
