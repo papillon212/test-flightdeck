@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "01M43VVJMYGDE5XXKEQC1S1HEY",
+  "epic": "CU-z8r3fdnawj",
+  "author": "dh.lee",
+  "at": "2026-10-05T00:27:21.118+08:00",
+  "type": "run.finished",
+  "data": {
+    "run_id": "01M43VT9KKBCN1996AE00P3072",
+    "phase": "IMPLEMENTATION",
+    "member": "dh.lee",
+    "ckpt_to": "0724d325636bd09646fd1d2ef57d57935de770d8"
+  }
+}
