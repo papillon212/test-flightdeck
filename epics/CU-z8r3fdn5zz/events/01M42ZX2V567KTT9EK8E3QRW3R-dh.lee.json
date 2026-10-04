@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "id": "01M42ZX2V567KTT9EK8E3QRW3R",
+  "epic": "CU-z8r3fdn5zz",
+  "author": "dh.lee",
+  "at": "2026-10-04T16:18:53.466+08:00",
+  "type": "thread.created",
+  "data": {
+    "thread": "t-8E3QRW3R",
+    "phase": "ANALYSIS",
+    "file": "analysis.md",
+    "anchor": {
+      "type": "paragraph",
+      "pid": "p:21dc"
+    },
+    "kind": "question",
+    "to": [
+      "park"
+    ],
+    "body": "@park 액세스 토큰 TTL은 요구사항상 몇 분인가요?",
+    "commit": "843078f5142ff8defe38ef763b325d9634ac3523"
+  }
+}
