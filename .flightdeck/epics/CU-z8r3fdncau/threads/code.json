@@ -1,0 +1,36 @@
+[
+  {
+    "id": "t-6CN1F3AQ",
+    "kind": "change_request",
+    "status": "resolved",
+    "author": "park",
+    "to": [
+      "dh.lee"
+    ],
+    "anchor": {
+      "type": "code",
+      "file": "src/token.js",
+      "rev": "eff58eea2da1249bbe866099e49b8265ccf3f92d",
+      "range": [
+        3,
+        3
+      ],
+      "context": [
+        "const crypto = require(\"crypto\");",
+        "",
+        "  const cur = store.get(token);",
+        "  if (!cur || cur.used) throw new Error(\"reused\");",
+        "  cur.used = true;"
+      ]
+    },
+    "body": "token 형식 검사를 넣어 주세요 (리뷰 사본에서 확인: node check.js 통과)",
+    "replies": [
+      {
+        "author": "dh.lee",
+        "at": "2026-10-05T08:00:48.397+08:00",
+        "body": "반영했습니다. 다시 요청합니다."
+      }
+    ],
+    "applied": true
+  }
+]
