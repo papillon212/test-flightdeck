@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "id": "01M44NS37NNCFVGT076CN1F3AQ",
+  "epic": "CU-z8r3fdncau",
+  "author": "park",
+  "at": "2026-10-05T08:00:22.773+08:00",
+  "type": "thread.created",
+  "data": {
+    "thread": "t-6CN1F3AQ",
+    "phase": "VERIFICATION",
+    "file": "src/token.js",
+    "anchor": {
+      "type": "code",
+      "file": "src/token.js",
+      "rev": "eff58eea2da1249bbe866099e49b8265ccf3f92d",
+      "range": [
+        3,
+        3
+      ],
+      "context": [
+        "const crypto = require(\"crypto\");",
+        "",
+        "  const cur = store.get(token);",
+        "  if (!cur || cur.used) throw new Error(\"reused\");",
+        "  cur.used = true;"
+      ]
+    },
+    "kind": "change_request",
+    "to": [
+      "dh.lee"
+    ],
+    "body": "token 형식 검사를 넣어 주세요 (리뷰 사본에서 확인: node check.js 통과)",
+    "commit": "eff58eea2da1249bbe866099e49b8265ccf3f92d",
+    "patch": "diff --git a/src/token.js b/src/token.js\nindex e612118..35cbf0e 100644\n--- a/src/token.js\n+++ b/src/token.js\n@@ -1,6 +1,7 @@\n const crypto = require(\"crypto\");\n \n function rotate(store, token) {\n+  if (typeof token !== 'string') throw new TypeError('token must be a string');\n   const cur = store.get(token);\n   if (!cur || cur.used) throw new Error(\"reused\");\n   cur.used = true;\n"
+  }
+}
