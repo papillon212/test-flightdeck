@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "01M44NXFV6EJ7TWNWTC6CXZ1N3",
+  "epic": "CU-z8r3fdncau",
+  "author": "choi",
+  "at": "2026-10-05T08:02:46.758+08:00",
+  "sig": "ed25519:E2JJomXH7pMHmjmtDgMeRJAWZJv1SoMsykiJUg2/6WXj3OLZRAzR7ZXriz5ws2eDHHlTA+WbHVpzUtUs0RZ+AQ==",
+  "type": "review.approved",
+  "data": {
+    "phase": "VERIFICATION",
+    "tier": "qa",
+    "artifact_hash": "tree:a81a4b454870af25a92abb0f27d918cb1d1210ab"
+  }
+}
