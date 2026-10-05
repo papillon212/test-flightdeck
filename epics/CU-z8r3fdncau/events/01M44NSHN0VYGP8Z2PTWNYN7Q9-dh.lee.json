@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "id": "01M44NSHN0VYGP8Z2PTWNYN7Q9",
+  "epic": "CU-z8r3fdncau",
+  "author": "dh.lee",
+  "at": "2026-10-05T08:00:37.536+08:00",
+  "type": "patch.applied",
+  "data": {
+    "thread": "t-6CN1F3AQ",
+    "commit": "eff58eea2da1249bbe866099e49b8265ccf3f92d"
+  }
+}
