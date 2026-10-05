@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t-VZ62A4PB",
+    "kind": "question",
+    "status": "resolved",
+    "author": "park",
+    "to": [
+      "dh.lee"
+    ],
+    "anchor": {
+      "type": "code",
+      "file": "src/token.js",
+      "rev": "c06383eaa21dbc087448c4c06c06f7bcfc4c3e91",
+      "range": [
+        6,
+        6
+      ],
+      "context": [
+        "function rotate(store, token) {",
+        "  const cur = store.get(token);",
+        "  if (!cur || cur.used) throw new Error(\"reused\");",
+        "  const next = crypto.randomBytes(16).toString(\"hex\");",
+        "  store.set(next, { used: false });",
+        "  return next;"
+      ]
+    },
+    "body": "재사용 표시를 저장 전에 하는 이유가 있나요?",
+    "replies": [
+      {
+        "author": "dh.lee",
+        "at": "2026-10-05T13:48:06.964+08:00",
+        "body": "동시 재사용을 막기 위해서입니다. 주석으로 남겼습니다."
+      }
+    ],
+    "applied": false
+  }
+]
