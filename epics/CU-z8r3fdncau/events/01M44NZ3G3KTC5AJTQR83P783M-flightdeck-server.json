@@ -1,0 +1,16 @@
+{
+  "v": 1,
+  "id": "01M44NZ3G3KTC5AJTQR83P783M",
+  "epic": "CU-z8r3fdncau",
+  "author": "flightdeck-server",
+  "at": "2026-10-05T08:03:39.651+08:00",
+  "sig": "ed25519:zy6G+uAOdKGQmY4iRzIaDFnD/K1q7AiCa/l4cjQzSWnUKHLuH4Lo7Wq/LGEXcHVmXTNyvJyNRs74GRVlGGF9Cw==",
+  "type": "epic.landed",
+  "data": {
+    "main_commit": "736ae1a13d4912c49fe19f379ad922dd25169a2e",
+    "approvals": [
+      "01M44NW6CP77QFPRZXJ708S5GC",
+      "01M44NXFV6EJ7TWNWTC6CXZ1N3"
+    ]
+  }
+}
