@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "id": "01M44NW6CP77QFPRZXJ708S5GC",
+  "epic": "CU-z8r3fdncau",
+  "author": "park",
+  "at": "2026-10-05T08:02:04.310+08:00",
+  "sig": "ed25519:tKY2wbE7qZX97+nlHv4jrC7CI5G2VGlk98B2ECl1PrYjfSNVR9CcXf9cHK95zEVWAYKDi9q3UjfzSdOx0OLoCA==",
+  "type": "review.approved",
+  "data": {
+    "phase": "VERIFICATION",
+    "tier": "lead",
+    "artifact_hash": "tree:a81a4b454870af25a92abb0f27d918cb1d1210ab"
+  }
+}
