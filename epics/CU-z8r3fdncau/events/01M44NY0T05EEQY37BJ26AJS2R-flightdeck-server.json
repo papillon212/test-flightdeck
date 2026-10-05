@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "id": "01M44NY0T05EEQY37BJ26AJS2R",
+  "epic": "CU-z8r3fdncau",
+  "author": "flightdeck-server",
+  "at": "2026-10-05T08:03:04.128+08:00",
+  "sig": "ed25519:x3z6+x0hp8j+DBXmQ+sBaWAYftIYKTEE7QvR0xb/5hNF+g+8ezxJp9eMNs3OOCoCpH0eNLEn9wEhRTa61ABvCQ==",
+  "type": "land.rejected",
+  "data": {
+    "reason": "needs_report",
+    "rebased_sha": "9558e4dbbfacf4e90e9aeb45733e9f8bf578307c",
+    "details": {
+      "message": "main이 움직여 에픽 브랜치에 병합했다. 9558e4dbbf로 테스트를 다시 보고해야 한다",
+      "rebased_sha": "9558e4dbbfacf4e90e9aeb45733e9f8bf578307c",
+      "main": "71b843ac5bfe8e2d816c27635f11a3a4b89a761a"
+    }
+  }
+}
